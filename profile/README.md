@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.graphpad.com/guides/prism/latest/user-guide/images/clip0142.png" width="1080"/>
+  <img src="https://images.ctfassets.net/gyag548snr3z/VeW6Idtozs3wUqGdZ8DuR/962596eb2cc9cc63c3c785b7e97f20b8/Dark_Dialogs.png" width="1080"/>
 </div>  
 <br>
 
